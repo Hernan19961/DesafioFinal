@@ -120,6 +120,12 @@ body {
     gap: 20px;
 }
 
+.content button{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
 
 
 
